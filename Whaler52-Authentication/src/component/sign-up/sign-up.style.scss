@@ -1,0 +1,42 @@
+.sign-up-container {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  margin: auto ;
+  background-color:#FFFFFF;
+  padding: 40px 50px 50px 30px;
+  border-radius: 12px;
+
+  }
+
+  h1{
+    font-size: 24px;
+    text-align: left;
+    color: #6191ff;
+  }
+  span{
+    color: #467AF6;
+  }
+
+
+  .buttons-containers {
+    display: flex;
+    width:100px;
+    gap: 10px;
+  }
+
+  
+  .nav-footer-form-sign{
+    margin-top:10px;
+  }
+
+
+.nav-text-sign{
+  text-align: center;
+  color: #467AF6;
+  font-size: 16px;
+}
+
+.nav-text-sign:hover{
+  color: #9BB7F9;
+}

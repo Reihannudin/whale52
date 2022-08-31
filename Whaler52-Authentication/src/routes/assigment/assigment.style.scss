@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+.assigment-dashboard{
+    margin: 100px  50px;
+    border-radius: 8px;
+    height: 600px;
+ 
+    background-color:#ffffff;
+    background-image: url(../../assets/assigment-background.svg);
+    background-repeat: no-repeat;
+}
+
+.assigment-container{
+    padding-top:35px;
+    border-radius:8px;
+    display: grid;
+    grid-template-columns: 23% 65%;
+}
+
+.assigment-check{
+    background-color: #ffffff;
+    height: 150px;
+    width: 160px;
+    margin: 45px 50px;
+    border-radius:6px;
+}
+
+
+.assigment-order{
+    height: 450px;
+    width:100%;
+    margin: 45px 50px;
+    background-color: #D6E1FA;
+    opacity: 50%;
+    border-radius:6px;
+}

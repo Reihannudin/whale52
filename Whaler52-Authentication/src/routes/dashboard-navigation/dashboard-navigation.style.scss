@@ -1,0 +1,47 @@
+*{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+.nav-card-container{
+    max-width: 220px;
+    margin: auto;
+    justify-content: center;
+}
+
+.nav-content-container{
+    display:grid;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    width: 220px;
+}
+
+Link{
+    grid-template-columns: 40% 60%;
+}
+
+.nav-logo{
+    width: 40px;
+}
+
+.nav-link{
+    padding: 0;
+}
+
+.nav-text{
+    text-align: center;
+    color: #9BB7F9;
+    background-color: #F9F9F9;
+}
+
+.nav-text:hover{
+    background-color: #9BB7F9;
+    color: #F9F9F9;
+}
+
+.nav-button{
+    min-width: 100px;
+    border-radius:8px;
+    padding:14px 50px;
+}

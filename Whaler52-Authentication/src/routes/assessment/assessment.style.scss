@@ -1,0 +1,30 @@
+.assessment-container{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.assesment-dashboard{
+    margin: 100px  50px;
+    border-radius: 8px;
+    height: 600px;
+ 
+    background-color:#ffffff;
+    background-image: url(../../assets/assigment-background.svg);
+    background-repeat: no-repeat;
+}
+
+.assesment-container{
+    padding-top:35px;
+    border-radius:8px;
+}
+
+.assesment-content{
+    height: 450px;
+    margin: 45px 50px;
+    background-color: #D6E1FA;
+    opacity: 50%;
+    border-radius:6px;
+}
