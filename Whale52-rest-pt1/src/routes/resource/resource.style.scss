@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+.resource-dashboard{
+    margin: 25px  40px;
+    border-radius: 8px;
+    height: 600px;
+ 
+    background-color:#ffffff;
+    background-image: url(../../assets/assigment-background.svg);
+    background-repeat: no-repeat;
+}
+
+.resource-container{
+    padding-top:35px;
+    border-radius:8px;
+}
+
+.resource-content{
+    height: 450px;
+    margin: 45px 50px;
+    background-color: #D6E1FA;
+    opacity: 50%;
+    border-radius:6px;
+}

@@ -1,0 +1,49 @@
+
+.banner-section{
+    background-color: #FFFFFF;
+    padding: 20px 0;
+    max-width: 1500px;
+    align-items: center;
+}
+
+.banner-container{
+    // background-image: url(../../assets/banner-whale.svg);
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    background-position: center;
+    min-height: 413px;
+    max-height: 413px;
+}
+
+.sea{
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    bottom: 0;
+    background-color: #BDD1FF;
+}
+
+.text-banner{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.title-banner{
+    text-align: left;
+    font-size: 48px;
+    color: #1C4FC9;
+}
+
+.p-banner{
+    font-size:24px;
+    color: #1C4FC9;
+    margin-bottom: 30px;
+}
+
+
+.btn-banner{
+    align-items: left;
+    margin: 0 0;
+}

@@ -1,0 +1,56 @@
+
+.feature-banner-section{
+    background-color: #FFFFFF;
+    padding: 20px 0;
+    max-width: 1500px;
+    align-items: center;
+}
+
+.title-feature-banner{
+    color: #467AF6;
+    font-size: 36px;
+    font-weight: 300;
+    padding: 20px 0;
+}
+
+.feature-banner-container{
+    display: inline-grid;
+     /* display: grid; */
+     justify-content: center;
+    grid-template-columns:25% 25% 23%; 
+    gap: 50px;
+    grid-column: 33% ;
+    width:100%;
+    background-image: url(../../../assets/Vector.svg);
+    margin: 30px auto;
+    min-height: 380px;
+}
+
+.feature-banner-box{
+    min-width: 220px;
+    max-width: 300px;
+    max-height: 330px;
+    min-width: 280px;
+    border-radius: 8px;
+    background-color: #467AF6;
+}
+
+.feature-banner-content{
+    margin: 35px;
+}
+
+.feature-banner-title{
+    font-size:28px;
+    margin: 10px 0;
+    color:#FFFFFF
+}
+
+.feature-banner-p{
+    font-size:23px;
+    font-weight: 300;
+    color:#FFFFFF
+}
+
+.logo-feature{
+   margin-left: 35%; 
+}

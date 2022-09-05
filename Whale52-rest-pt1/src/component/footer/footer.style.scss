@@ -1,0 +1,30 @@
+
+.footer-section{
+    height:300px;
+    background-color: #303846;
+}
+
+.footer-container{
+    width: 80%;
+    height: 100%;
+    margin: 30px auto;
+    display:grid;
+    justify-content: center;
+    grid-template-columns: 40% 20% 20% 20%; 
+}
+
+.footer-box{
+    margin-top:50px;
+}
+
+.p-footer{
+    width:80%;
+    padding-top: 20px;
+    color: #FFFFFF;
+}
+
+.h2-footer{
+    font-weight: 300;
+    padding-bottom: 40px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,29 @@
+.navigation {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    background-color:rgb(255, 255, 255);
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.logo-container{
+    margin: auto 70px;
+}
+
+.text-container{
+    font-size:24px;
+    cursor: pointer;
+    margin: 15px 70px;
+}
+
+.nav-text-home{
+    margin: 0 0px 0 25px;
+    text-align: center;
+    color: #9BB7F9;
+    font-size: 24px;
+}
+
+.nav-text-home:hover{
+    color: #467AF6;
+}

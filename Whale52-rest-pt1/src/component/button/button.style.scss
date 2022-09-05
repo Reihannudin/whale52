@@ -1,0 +1,64 @@
+button{
+  font-family: 'Lato', sans-serif;
+}
+
+.button-container {
+    min-width: 165px;
+    width: auto;
+    height: 48px;
+    letter-spacing: 0.5px;
+    line-height: 50px;
+    padding: 0 30px 0 30px;
+    // margin: 0 auto;
+    border-radius: 6px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: 'Open Sans Condensed';
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+  
+   
+  
+    &.google-sign {
+      background-color: white;
+      font-family: 'Lato', sans-serif;
+      color: #5b8bfa;
+      border: 1px solid #004cff;
+  
+      &:hover {
+        background-color: #6191ff;
+        color: white;
+        border: none;
+      }
+    }
+
+    &.submit-button {
+      background-color: #5b8bfa;
+        font-family: 'Lato', sans-serif;
+        color: white;
+        border: none;   
+  
+      &:hover {
+        border-radius: 6px;
+        background-color: #054ffd;
+        color: #ffffff;
+      }
+    }
+
+    &.redirect-button {
+      background-color: #467AF6;
+        color: white;
+        font-family: 'Lato', sans-serif;
+        border: none;   
+  
+      &:hover {
+        border-radius: 6px;
+        background-color: #004cfc;
+        color: #ffffff;
+      }
+    }
+
+  }
